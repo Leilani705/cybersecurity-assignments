@@ -1,0 +1,3 @@
+#!bin/bash
+apt update -ysudo apt upgrade -y
+sudo apt autoremove --purge -y
